@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/printer_demo/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/printer_demo/static/js/main.5771cff5.chunk.js",
+    "main.js.map": "/printer_demo/static/js/main.5771cff5.chunk.js.map",
+    "runtime-main.js": "/printer_demo/static/js/runtime-main.e208bff0.js",
+    "runtime-main.js.map": "/printer_demo/static/js/runtime-main.e208bff0.js.map",
+    "static/js/2.9aa63aeb.chunk.js": "/printer_demo/static/js/2.9aa63aeb.chunk.js",
+    "static/js/2.9aa63aeb.chunk.js.map": "/printer_demo/static/js/2.9aa63aeb.chunk.js.map",
+    "static/js/3.ec7f021f.chunk.js": "/printer_demo/static/js/3.ec7f021f.chunk.js",
+    "static/js/3.ec7f021f.chunk.js.map": "/printer_demo/static/js/3.ec7f021f.chunk.js.map",
+    "index.html": "/printer_demo/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/printer_demo/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9aa63aeb.chunk.js.LICENSE.txt": "/printer_demo/static/js/2.9aa63aeb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e208bff0.js",
+    "static/js/2.9aa63aeb.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5771cff5.chunk.js"
+  ]
+}
